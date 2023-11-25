@@ -34,15 +34,6 @@ body {
     
 }
 
-.pictures {
-    grid-area: p;
-    grid-template-areas:
-    'a b'
-    'c d'
-    'e o'
-    'g v'
-}
-
 .aside {
     grid-area: k;  
     border-width: 1.5px;
